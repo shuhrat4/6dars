@@ -218,8 +218,8 @@
 // 2
 
 // function array(arr) {
-//       let uniqueElements = new Set(arr);
-//       return Array.from(uniqueElements);
+//       let num = new Set(arr);
+//       return Array.from(num);
 // }
 // let inputArray = [1, 1, 2, 2, 3, 3, 4, 4, 5, 5];
 // let resultArray = array(inputArray);
